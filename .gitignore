@@ -1,0 +1,3 @@
+*.code-workspace
+server*
+.DS_Store

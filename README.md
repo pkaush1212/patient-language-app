@@ -1,6 +1,6 @@
 # Patient Language App
 
-A full-stack platform connecting medical professionals with language interpreters. Requesters submit interpretation requests, interpreters accept matches, and both communicate via integrated chat with appointment scheduling.
+A full-stack platform connecting requesters with language interpreters. Requesters submit interpretation requests, interpreters accept matches, and both communicate via integrated chat with appointment scheduling.
 
 ---
 

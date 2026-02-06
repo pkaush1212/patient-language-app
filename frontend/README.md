@@ -1,6 +1,6 @@
 # Patient Language App - Web Frontend
 
-React TypeScript web application for the Patient Language App platform - connecting medical professionals with language interpreters.
+React TypeScript web application for the Patient Language App platform - connecting requesters with language interpreters.
 
 ## Overview
 
